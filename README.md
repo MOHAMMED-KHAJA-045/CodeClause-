@@ -7,7 +7,7 @@ INTERN ID : CC101034
 Designation- Artificial Intelligence Intern
 
 
-Project ID - #CC3587
+1. Project ID - #CC3587
 
 Project Title - Chatbot Creation
 
@@ -20,7 +20,7 @@ A chatbot in Python is an AI-driven program that simulates human conversation. U
 
 ![image alt](https://github.com/MOHAMMED-KHAJA-045/CodeClause-/blob/0a0f180a0907178a08d6cfec0a4cd20702ff3df6/chatbot.png)
 
-Project ID - #CC3588
+2. Project ID - #CC3588
 
 Project Title - Image Recognition
 
@@ -33,7 +33,7 @@ Image classification is a computer vision task where Python models—often built
 
 ![image alt](https://github.com/MOHAMMED-KHAJA-045/CodeClause-/blob/0a0f180a0907178a08d6cfec0a4cd20702ff3df6/IMAGECLASSIFICATION.png)
 
-Project ID - #CC3589
+3. Project ID - #CC3589
 
 Project Title - Natural Language Processing for Legal Documents
 
